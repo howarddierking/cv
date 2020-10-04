@@ -1,6 +1,6 @@
 # cv
 CV / Resume
 
-To build
+To build 
 
 `xelatex resume.tex`
