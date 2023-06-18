@@ -1,7 +1,10 @@
 # cv
 CV / Resume
 
-To build 
+## Prerequisits
+* LaTeX - on Mac [MacTeX](https://tug.org/mactex/mactex-download.html)
+
+## Build 
 
 `xelatex resume.tex`
  
